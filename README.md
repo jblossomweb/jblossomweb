@@ -13,6 +13,7 @@
 ### Find me on:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jbweb/) 
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/jblossomweb) 
+[![WellFound](https://img.shields.io/badge/WellFound-fff?style=flat-square&logo=wellfound&logoColor=ec2d3a)](https://wellfound.com/u/jblossom) 
 
 <!--
 **jblossomweb/jblossomweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
